@@ -8,7 +8,4 @@ Geliştiriciler:
 
 
 Dataset: 
-https://www.kaggle.com/shayanfazeli/heartbeat
-
-
-kullanıldı. 
+https://www.kaggle.com/shayanfazeli/heartbeat   kullanıldı. 
