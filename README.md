@@ -3,8 +3,6 @@ Covid-19 olma ihtimali olan insanların yüz taramasını gerçekleştirerek, ha
 
 Geliştiriciler:
 1-Ahmet Faruk Pala 0218201008 
-2-Ömer Kağan Kılıçaslan 02180201016
-3-Fatma Tuğba Çırağ 02180001510
 
 
 Dataset: 
